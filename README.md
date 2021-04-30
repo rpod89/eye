@@ -2,7 +2,13 @@
 
 ___Description___:
 
-A Proof of Concept of a decentralized Oracle using the DERO service mode. (Everyone will use the dummy wallet like a pool of inputs and use the private Operator wallet to send result to the wallet that ask request)
+A Proof of Concept of a decentralized Oracle using the DERO service for the dARCH event 0.5. Everyone will use the dummy wallet like a pool of inputs and use the private Operator wallet to send result to the wallet that ask for requests.
+
+
+___2021 dARCH event 0.5___:
+
+https://forum.dero.io/t/darch-2021-event-0-5-services-only/1330
+
 #
 ___How to run___:
 ### 1. Recover / Launch the dummy wallet: (wallet shared by everyone)
