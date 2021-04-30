@@ -23,6 +23,10 @@ trash gables adjust tufts affair alerts inorganic banjo directed fossil somewher
 ```
 
 ### 4. Launch the oracle:
+```
+./eye-linux-amd64
+```
+or
 ``` 
 go run main.go
 ```
